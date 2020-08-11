@@ -16,6 +16,6 @@ A Web app which uses google map to locate user and company, which are randomly g
 
 # How to run this application
  * clone this repo.
- * run npm install command, where repo is extracted (This will download all the dependencies).
+ * run "npm install" command, where repo is extracted (This will download all the dependencies).
  * run parcel index.html
  * open your browser and enter http://localhost:1234/
